@@ -1,2 +1,4 @@
 # Hello-world
-Test Matlab Post
+
+img = imread('D:\LRC\Data\Tsukuba_L.png');
+
